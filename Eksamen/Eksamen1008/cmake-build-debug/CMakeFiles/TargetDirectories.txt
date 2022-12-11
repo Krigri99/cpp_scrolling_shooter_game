@@ -1,0 +1,3 @@
+C:/Users/krist/OneDrive/Dokumenter/EMNER 4.semester/PG4401-C++ programmering/Eksamen/Eksamen1008/cmake-build-debug/CMakeFiles/Eksamen1008.dir
+C:/Users/krist/OneDrive/Dokumenter/EMNER 4.semester/PG4401-C++ programmering/Eksamen/Eksamen1008/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/krist/OneDrive/Dokumenter/EMNER 4.semester/PG4401-C++ programmering/Eksamen/Eksamen1008/cmake-build-debug/CMakeFiles/rebuild_cache.dir
