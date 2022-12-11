@@ -1,5 +1,5 @@
-# __Scrolling Shooter Game
-## __Introduction
+# Scrolling Shooter Game
+## Introduction
 This is a game I made for the exam in the course PG4400 at Kristiania University College.
 The task was to make a game inspired by the classic scrolling shooter genre.
 The game should also be based upon the SDL2 library for C++.
